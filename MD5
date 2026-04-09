@@ -1,0 +1,15 @@
+4cef66911bda39fe2f7b964cd5d383b8 *DESCRIPTION
+4435dc96d11a5fdb136615f5afd75b5e *NAMESPACE
+c833b8f55e7d2633613fc7e3fef2711f *NEWS.md
+ec4b1d77004c98de1f941a11fb78a507 *R/data.R
+cfc3c7fa37db2c14ed53023bf0fb3dc1 *R/tptest-methods.R
+1bedef9317b77e6a15705bf0ef7906e8 *R/tptest.R
+ce72494f61c612c4f3a5a13275ecde67 *R/zzz.R
+2f50cc4074787c47923374e22e395ff3 *README.md
+ba582b375e5afde780e991c9b7711c6a *build/partial.rdb
+7353c1d9a5e70357ac7addb73ab6ebbe *data/ekc.rda
+723f2e55e5bc718a88701e6dd332f023 *man/ekc.Rd
+00bc26ac9e02b476237e4d83be4b5c50 *man/fieller_ci.Rd
+9ad2430c0097d2b38da26e8e6c412196 *man/tptest-methods.Rd
+c28da0fe4c483b0201cb57ed3b08a987 *man/tptest.Rd
+13dfd2df10f3022e300c241b784309e2 *man/twolines_test.Rd
