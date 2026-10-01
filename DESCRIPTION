@@ -1,8 +1,8 @@
 Package: tptest
 Type: Package
 Title: Universal Turning Point and Inflection Point Tests
-Version: 1.0.3
-Date: 2026-03-07
+Version: 1.1.0
+Date: 2026-09-30
 Authors@R: c(
     person("Muhammad", "Alkhalaf", 
            email = "muhammedalkhalaf@gmail.com",
@@ -29,9 +29,9 @@ Imports: stats, graphics
 Suggests: testthat (>= 3.0.0), knitr, rmarkdown, lmtest, sandwich, plm,
         quantreg
 NeedsCompilation: no
-Packaged: 2026-04-02 15:26:14 UTC; SYSTEM
+Packaged: 2026-09-30 23:01:26 UTC; root
 Author: Muhammad Alkhalaf [aut, cre, cph] (ORCID:
     <https://orcid.org/0009-0002-2677-9246>)
 Maintainer: Muhammad Alkhalaf <muhammedalkhalaf@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-04-09 08:20:02 UTC
+Date/Publication: 2026-10-01 08:30:15 UTC
